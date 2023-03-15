@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <myStringArray name="country">
+     <item name="USA" key="keyUSA1"  id="idUSA"> Unites State of America</item>
+     <item name="bra"  key="keybra" id="idbra" > Brazil</item>
+     <item name="tr"  key="keytr" id="idtr"> Turkiye</item>
+     <item name="eg" key="keyeg" id="ideg"> Egypt</item>
+ </myStringArray>
+
+
+</resources>
